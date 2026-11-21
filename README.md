@@ -12,7 +12,7 @@
     Contact: 0868668837
 
 * **[Nguyễn Hoàng Tùng]**
-    GitHub: https://github.com/Luffyreals
+    GitHub: https://github.com/tungkernel
     Contact:  0906279876
 
 * **[Hoàng Duy Anh]**
